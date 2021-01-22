@@ -1,0 +1,27 @@
+{
+  "name": "mediaplayer",
+  "version": "1.0.0",
+  "description": "Project of Professional Course of Javascript of Platzi",
+  "main": "./website/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "platzi",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Yosef Blandin <yosefleanb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+      "module": "ES6",
+      "preserveConstEnums": true,
+      "outDir": "lib"
+  },
+  "include": ["./js/**/*"],
+  "exclude": ["./node_modules", "/*.spec.ts"]
+}

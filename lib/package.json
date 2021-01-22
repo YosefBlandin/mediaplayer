@@ -1,0 +1,11 @@
+{
+  "name": "mediaplayer_improved",
+  "version": "1.0.0",
+  "description": "This is a Media pPlayer with Intersection Observer, Page Visibility and service workers API ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yosef Blandin",
+  "license": "MIT"
+}
